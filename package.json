@@ -1,0 +1,30 @@
+{
+  "name": "learn",
+  "description": "Learn JS",
+  "version": "0.5.0",
+  "author": "Su Wei <suwei05@baidu.com>",
+  "keywords": [
+    "javascript",
+    "learn"
+  ],
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwei1979/js-practise.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suwei1979/js-practise/issues"
+  },
+  "homepage": "https://github.com/suwei1979/js-practise#readme"
+}
