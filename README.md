@@ -1,15 +1,15 @@
 # js-practise
 
-for practise with node.js， 本联系所有的内容都是基于[runoob课程](http://www.runoob.com/nodejs/nodejs-tutorial.html "Node.js教程")  
+for practise with node.js， 本练习所有的内容都是基于[runoob课程](http://www.runoob.com/nodejs/nodejs-tutorial.html "Node.js教程")  
 
 ## 安装
 
-http://www.runoob.com/nodejs/nodejs-install-setup.html
+[Node.js 安装配置] (http://www.runoob.com/nodejs/nodejs-install-setup.html)
 
 ## 示例
 
-### 创建第一个服务器
-> node server.js
+### [创建第一个服务器] (http://www.runoob.com/nodejs/nodejs-http-server.html)
+* 'node server.js'
 
-### 阻塞与非阻塞读取
-> node main.js
+### [阻塞与非阻塞读取] (http://www.runoob.com/nodejs/nodejs-callback.html)
+ 'node main.js'
