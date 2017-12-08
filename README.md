@@ -9,7 +9,7 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 ## 示例
 
 ### [创建第一个服务器] (http://www.runoob.com/nodejs/nodejs-http-server.html)
-* 'node server.js'
+* `node server.js`
 
 ### [阻塞与非阻塞读取] (http://www.runoob.com/nodejs/nodejs-callback.html)
- 'node main.js'
+ `node main.js`
