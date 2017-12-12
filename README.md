@@ -19,3 +19,10 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 
 ### [EventEmitter] (http://www.runoob.com/nodejs/nodejs-event.html)
  `node event-emitter.js`
+
+### [Buffer] (http://www.runoob.com/nodejs/nodejs-buffer.html)
+ `node buffer.js`
+
+### [Stream] (http://www.runoob.com/nodejs/nodejs-stream.html)
+ `rm ./data/output*.txt`
+ `node stream.js`
