@@ -26,3 +26,9 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 ### [Stream] (http://www.runoob.com/nodejs/nodejs-stream.html)
  `rm ./data/output*.txt`
  `node stream.js`
+### [Function] (http://www.runoob.com/nodejs/nodejs-function.html)
+ `node function.js`
+
+### [Router] (http://www.runoob.com/nodejs/nodejs-router.html)
+- `node index.js`
+- open in browser:[test link] (http://localhost:8888/start) 
