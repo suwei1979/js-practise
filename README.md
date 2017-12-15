@@ -32,3 +32,6 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 ### [Router] (http://www.runoob.com/nodejs/nodejs-router.html)
 - `node index.js`
 - open in browser:[test link] (http://localhost:8888/start) 
+
+### [Global Variables and Objects] (http://www.runoob.com/nodejs/nodejs-global-object.html)
+- `node global.js`
