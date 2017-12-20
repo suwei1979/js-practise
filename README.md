@@ -35,3 +35,7 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 
 ### [Global Variables and Objects] (http://www.runoob.com/nodejs/nodejs-global-object.html)
 - `node global.js`
+
+###[Utility Tools] (http://www.runoob.com/nodejs/nodejs-util.html)
+- `node tools.js`
+
