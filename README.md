@@ -1,4 +1,4 @@
-# js-practise
+# Node.js-practise
 
 for practise with node.js， 本练习所有的内容都是基于[runoob课程](http://www.runoob.com/nodejs/nodejs-tutorial.html "Node.js教程")  
 
@@ -36,6 +36,38 @@ for practise with node.js， 本练习所有的内容都是基于[runoob课程](
 ### [Global Variables and Objects] (http://www.runoob.com/nodejs/nodejs-global-object.html)
 - `node global.js`
 
-###[Utility Tools] (http://www.runoob.com/nodejs/nodejs-util.html)
+### [Utility Tools] (http://www.runoob.com/nodejs/nodejs-util.html)
 - `node tools.js`
+
+### [File System](http://www.runoob.com/nodejs/nodejs-fs.html)
+- `node fs.js`
+
+### [GET/POST Request](http://www.runoob.com/nodejs/node-js-get-post.html)
+- `node server.js`
+
+### [Utility Module](http://www.runoob.com/nodejs/nodejs-utitlity-module.html)
+- `node module-os.js`
+- `node module-net-svr.js`
+- `node module-net-cli.js`
+- `node module-dns.js`
+- `node module-domain.js`
+
+### [Web Module](http://www.runoob.com/nodejs/nodejs-web-module.html)
+- `node server-web.js`
+- `http://127.0.0.1:8080/index.html`
+- `node client.js`
+
+### [express framework](http://www.runoob.com/nodejs/nodejs-express-framework.html)
+- `node express.js`
+- `http://127.0.0.1:8081`
+- `http://127.0.0.1:8081/list_user`
+- `http://127.0.0.1:8081/abcd`
+- `http://127.0.0.1:8081/abcdefg`
+
+### [Node.js RESTful API](http://www.runoob.com/nodejs/nodejs-restful-api.html)
+- `node server-rest.js`
+
+
+
+
 
